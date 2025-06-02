@@ -25,7 +25,7 @@ We currently do **not accept pull requests**. If you'd like to:
 * Suggest improvements
 * Report incorrect results or issues
 
-👉 Please **email us directly** at **[contact@istemporaryemail.com](mailto:contact@istemporaryemail.com)**
+👉 Please **email us directly** at **[contact@istemporaryemail.com](mailto:service@istemporaryemail.com)**
 
 ## 📚 Documentation
 
